@@ -1,0 +1,34 @@
+languages:
+  - python
+  - c++
+  - java
+  - javascript
+  - typescript
+  - sql
+  - bash
+
+libraries:
+  - pandas
+  - numpy
+  - scikit-learn
+  - fastapi
+  - flask
+  - react
+  - pytorch
+  - tensorflow
+
+tools:
+  - git
+  - github
+  - docker
+  - kubernetes
+  - aws
+  - gcp
+  - vscode
+  - linux
+
+concepts:
+  - oop
+  - data structures
+  - algorithms
+  - rest api
